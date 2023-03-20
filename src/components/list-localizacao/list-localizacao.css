@@ -1,0 +1,28 @@
+* {
+  text-align: center;
+}
+
+.link-card {
+
+  background-color: #0080FF;
+  border: none;
+  border-radius: 50px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+
+p {
+  letter-spacing: -0.18px;
+  color: #A1A1AA;
+}
+
+.div-dimension {
+
+  padding: 3px;
+  padding-top: 4px;
+}

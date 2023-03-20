@@ -1,0 +1,76 @@
+main {
+    max-width: 100%;
+    width: 100%;
+    margin: 32px auto;
+    display: grid;
+    gap: 24px;
+
+}
+
+.list-main {
+    text-align: center;
+    align-content: center;
+
+}
+
+.ui.card {
+    text-align: center;
+
+}
+
+.card {
+
+    flex-direction: row-reverse
+}
+
+.character-list img {
+    width: 130px;
+    border-radius: 8px;
+    margin-top: 0%;
+    align-items: center;
+
+
+}
+
+ul {
+    list-style: none;
+    justify-content: space-between;
+    margin: 0;
+}
+
+section {
+    color: white;
+    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    margin: 0;
+
+
+
+}
+
+section div {
+
+    padding: 3px;
+    padding-top: 4px;
+}
+
+section h2 {
+    letter-spacing: 0.90px;
+    color: black;
+}
+
+section p {
+    letter-spacing: -0.18px;
+    color: #A1A1AA;
+}
+
+section ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-top: 24px;
+}
+
+section ul li {
+    transition: transform .3s;
+
+}
