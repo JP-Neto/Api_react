@@ -3,9 +3,9 @@ Rick and Morty API
 
 
 
-##Como rodar
+#Como rodar
 npm install y
-npm instal/l
+npm run
 
 ## Demonstração (Preview)
  https://jp-neto.github.io/Quiz_construct2/
