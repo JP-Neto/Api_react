@@ -5,6 +5,7 @@ Rick and Morty API
 
 ## Como rodar
 npm install y
+#
 npm run
 
 ## Demonstração (Preview)
