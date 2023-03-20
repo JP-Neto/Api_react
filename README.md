@@ -3,7 +3,7 @@ Rick and Morty API
 
 
 
-#Como rodar
+## Como rodar
 npm install y
 npm run
 
